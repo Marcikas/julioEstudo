@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<pais>
+  <nome>Brasil</nome>
+  <moeda>Real</moeda>
+  <populacao>
+    <qtd>200000000</qtd>    
+  </populacao>
+</pais>

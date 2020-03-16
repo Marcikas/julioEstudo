@@ -1,0 +1,9 @@
+{
+    "nome": "Victor",
+    "conta": {
+        "numero": 123456789,
+        "saldo": 450.00
+    },
+    "idade": 24,
+    "endereco": "Guarulhos"
+}

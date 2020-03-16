@@ -4,6 +4,7 @@
 // 1 - Callbacks/Funções anônimas
 // 2- String contendo o nome de uma função ja definida
 // 3 - Instâncias de Classes que implementam o método mágico __invoke
+// 4 - um array contendo em um índice o nome da classe, e no outro o nome do método da classe(que você passou no primeiro índice)
 
 // Função base para todos os exemplos
 function call(callable $callable)
